@@ -1,0 +1,37 @@
+# Site settings
+title: Nami의 무비무비
+description: "영화 이야기와 핫이슈를 담고 있습니다 ."
+url: "http://namimov.com/"
+author:
+  name: "Nami"
+  email: "hyunjung3445@gmail.com"
+  url: "http://www.jacoporabolini.com"
+
+# Build settings
+baseurl: /
+markdown: kramdown
+permalink: /:title
+paginate: 8
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
