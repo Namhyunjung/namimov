@@ -1,6 +1,7 @@
 # Site settings
-title: Nami의 무비무비
-description: "영화 이야기와 핫이슈를 담고 있습니다 ."
+title: Nami’s 키워드세상
+tagline: 키워드로_바라보는_세상, 기획과 마케팅
+description: "사회 현상에 담긴 키워드로 어떤 기획을 할 수 있을까, 기획/마케팅 Thinking+log ."
 url: "http://namimov.com/"
 author:
   name: "Nami"
