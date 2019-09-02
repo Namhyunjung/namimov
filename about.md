@@ -3,19 +3,6 @@ layout: page
 title: About Nami's 키워드세상
 ---
 ## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+전략기획, 마케팅 업무를 할 수록 사회 트렌드를 **이해** 하는 것이 중요하다고 생각됩니다. 어떤 사회 현상이 뜨고 있는지, 이런 사회 현상은 어떤 키워드를 내포하고 있는지 궁금해졌습니다. 블로그를 통해 더 좋은 기획 모델을 발굴하고, 벤치마킹 삼아 커리어를 발전시키고자 합니다.
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
-
-![Emerald](img/Emerald01.png "Emerald")
-
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
-
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
-
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root.
-
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
-
-Enjoy!
+- 2019.09.02, Nami
