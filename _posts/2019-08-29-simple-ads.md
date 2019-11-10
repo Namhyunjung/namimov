@@ -61,9 +61,3 @@ description: 요즘 TV나 유튜브에서 나오는 광고를 살펴보면 스�
 ![Question](https://lh3.googleusercontent.com/ngbJSOSR8ZKgIOlrRD4LAlam_Bomi6wmhXozQ5PGhYOw45kk2x2lUb1YgkowQfIxRhkaXY570Nf2Tf0ztw3n_YfGVs8IIc_Yx8AIdYqZcBBR4_rBP-a9SVORFwb3LNklRG1QtWQ-UAmqWWbiABUtRWIWHVY1t-kT9d1_xFHFhha5bJLvRDnpP5l-k89pxpPTwTxZ7GjC36PXThQgak1la_uxCC2W754YgbWVkPkMYP2hC7bjse9T1DdVI9OUhCVyx1G94_Jf0NddUU_rY6LAiOkD8twMJ0aX5T5KsqGCQq8eY7S1zqBwd3U9r9MvCNTk9frW31XwIkVJ_4pxY1V9J3C4t2s8ZT8beRop0DhaBWfBRb4srUkKbh0TTlBoIB8_5-rtuYr4EGFkJ1vAcQWtimeiPsctX_qg8q_aaJtOZ0-WZHLAeeOmzXgajxxUBMw53DOx9jfQFGWSHAgzJ6YumUMHcBvmLnyYfG-HLc8ZN-wHiQFbvuS-ZpLxkxKv0eeRAaPPoYZCRfZlzIz2mXJvR3Cv2qjGjm10MqWxJCZ-cm3Y_CEXCWwtunG0PXrkMR6_F9gYusIti4XR6WeFltxW-fotnDQyokRs-aWhsRIFjJ6fj3yi8HlngJBD7tlpFCsaLzn7y2EY1HQaHFYHnkv-9ZIh=w959-h640-no)
 
 한동안 이런 맥락 없는 광고가 대세일 듯하지만, 유행은 도는 것처럼 시대가 변하면 스토리텔링의 광고 시대가 또 올지도 모르겠다.
-
-<script>
-  fbq('track', 'ViewContent', {
-    content_title: document.title,
-  });
-</script>
