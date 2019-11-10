@@ -64,3 +64,9 @@ description: 콘서트를 가본 적 있는가? 몇 천명의 사람들이 한 �
 
 
 프로그램은 시즌 1은 5부작, 시즌2는 8부작으로 끝났다. 스케일이 크고 제작비가 많이 든다고 하는데, 시즌3가 나오면 도전해보고 싶다. 시청률이 1% 나왔다고 하는데, 프로그램 홍보가 많이 안된것 같아서 아쉽다.
+
+<script>
+  fbq('track', 'ViewContent', {
+    content_title: document.title,
+  });
+</script>

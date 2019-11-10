@@ -17,7 +17,7 @@ tags:
   - 광고트렌드
   - 마케팅광고전략
   - 맞춤타겟
-description: 요즘 TV나 유튜브에서 나오는 광고를 살펴보면 스토리는 어디에도 없고, 폰트는 무조건 크게! 별다른 이미지 없이 단어 몇 개만 강조된 광고를 볼 수 있다. 보고 있으면 웃기기도 하고 뭐 이런게 다 있지?란 생각이 들지만 어느 순간 핫한 광고로 평가되기도 하는데... 이런 광고들을 보며 왜 이런 광고들이 계속 나오고 있는지 그 이유를 생각해보았다. 
+description: 요즘 TV나 유튜브에서 나오는 광고를 살펴보면 스토리는 어디에도 없고, 폰트는 무조건 크게! 별다른 이미지 없이 단어 몇 개만 강조된 광고를 볼 수 있다. 보고 있으면 웃기기도 하고 뭐 이런게 다 있지?란 생각이 들지만 어느 순간 핫한 광고로 평가되기도 하는데... 이런 광고들을 보며 왜 이런 광고들이 계속 나오고 있는지 그 이유를 생각해보았다.
 ---
 
 요즘 유튜브에서 ‘와썹맨’ 이란 채널을 즐겨보는데, 가수 지오디의 리더인 박준형이 나와서 요즘 뜨는 핫플레이스를 찾아가는 컨셉이다. 장소 및 맛집 음식을 체험해본 후, 굉장히 솔직하게 자신의 느낌을 말한다.(공중파였으면 짤릴만한 수위 높은 멘트로)
@@ -30,7 +30,7 @@ description: 요즘 TV나 유튜브에서 나오는 광고를 살펴보면 스�
 
 #### 스토리텔링이 중요하다고 했는데..
 
-내가 한창 마케팅을 배울 땐, 그 시대엔 그랬다!  스토리텔링의 힘이라는 이야기로 ‘강풍을 맞고도 나무에서 떨어지지 않은 사과’라는 스토리를 붙여 상품가치가 없는 사과를 수험생 부모에게 판매했다는 이야기. 나와 비슷한 때에 공부했다면 어디서 많이 들어보았을 거다. 
+내가 한창 마케팅을 배울 땐, 그 시대엔 그랬다!  스토리텔링의 힘이라는 이야기로 ‘강풍을 맞고도 나무에서 떨어지지 않은 사과’라는 스토리를 붙여 상품가치가 없는 사과를 수험생 부모에게 판매했다는 이야기. 나와 비슷한 때에 공부했다면 어디서 많이 들어보았을 거다.
 
 
 
@@ -54,10 +54,16 @@ description: 요즘 TV나 유튜브에서 나오는 광고를 살펴보면 스�
 
 스토리텔링 광고 같은 경우, 광고 맨 끝에 브랜드를 보여주다 보니… 앞부분 몇 초 보다가 흥미를 잃으면 꺼버리게 되는 경우가 많다. 유튜브 영상에서 광고에게 주어진 시간은 5초, 유튜브 영상에서 5초 안에 고객을 사로잡지 못하면 스킵하는게 자연스러워진 것이다. 고객에게 도달하지도 못하고 사라져가는 광고가 얼마나 많을까,
 
-이렇게 해서 짧은 시간 내로 표현해야 하기에 뜬금없지만 대놓고 말하고, 병맛 같아 보이지만 고객을 사로잡는 것이다. 또 그런 과정에서 브랜드는 자신이 이야기하고자 하는 것에 좀더 솔직한 것처럼 보인다.(시간이 짧기에 자신을 포장할 미사어구를 붙일 시간이 없기 때문이라 그런 느낌이 더 드는 것 같다.) 
+이렇게 해서 짧은 시간 내로 표현해야 하기에 뜬금없지만 대놓고 말하고, 병맛 같아 보이지만 고객을 사로잡는 것이다. 또 그런 과정에서 브랜드는 자신이 이야기하고자 하는 것에 좀더 솔직한 것처럼 보인다.(시간이 짧기에 자신을 포장할 미사어구를 붙일 시간이 없기 때문이라 그런 느낌이 더 드는 것 같다.)
 
 
 
 ![Question](https://lh3.googleusercontent.com/ngbJSOSR8ZKgIOlrRD4LAlam_Bomi6wmhXozQ5PGhYOw45kk2x2lUb1YgkowQfIxRhkaXY570Nf2Tf0ztw3n_YfGVs8IIc_Yx8AIdYqZcBBR4_rBP-a9SVORFwb3LNklRG1QtWQ-UAmqWWbiABUtRWIWHVY1t-kT9d1_xFHFhha5bJLvRDnpP5l-k89pxpPTwTxZ7GjC36PXThQgak1la_uxCC2W754YgbWVkPkMYP2hC7bjse9T1DdVI9OUhCVyx1G94_Jf0NddUU_rY6LAiOkD8twMJ0aX5T5KsqGCQq8eY7S1zqBwd3U9r9MvCNTk9frW31XwIkVJ_4pxY1V9J3C4t2s8ZT8beRop0DhaBWfBRb4srUkKbh0TTlBoIB8_5-rtuYr4EGFkJ1vAcQWtimeiPsctX_qg8q_aaJtOZ0-WZHLAeeOmzXgajxxUBMw53DOx9jfQFGWSHAgzJ6YumUMHcBvmLnyYfG-HLc8ZN-wHiQFbvuS-ZpLxkxKv0eeRAaPPoYZCRfZlzIz2mXJvR3Cv2qjGjm10MqWxJCZ-cm3Y_CEXCWwtunG0PXrkMR6_F9gYusIti4XR6WeFltxW-fotnDQyokRs-aWhsRIFjJ6fj3yi8HlngJBD7tlpFCsaLzn7y2EY1HQaHFYHnkv-9ZIh=w959-h640-no)
 
 한동안 이런 맥락 없는 광고가 대세일 듯하지만, 유행은 도는 것처럼 시대가 변하면 스토리텔링의 광고 시대가 또 올지도 모르겠다.
+
+<script>
+  fbq('track', 'ViewContent', {
+    content_title: document.title,
+  });
+</script>
